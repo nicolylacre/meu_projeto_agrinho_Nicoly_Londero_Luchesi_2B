@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Ligação Campo-Cidade</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+                        url('https://images.unsplash.com/photo-1576086213369-97a306d36584?auto=format&fit=crop&w=1470&q=80') no-repeat center center fixed;
+            background-size: cover;
+            color: white;
+        }
+
+        header {
+            background-color: rgba(0, 128, 0, 0.8);
+            text-align: center;
+            padding: 2rem;
+            font-size: 2rem;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px #000;
+        }
+
+        section {
+            padding: 3rem;
+            background-color: rgba(255, 255, 255, 0.1);
+            margin: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.5);
+        }
+
+        h2 {
+            color: #00ff88;
+            text-shadow: 1px 1px 2px #000;
+        }
+
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: rgba(0, 0, 0, 0.6);
+            font-size: 1rem;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        A Ligação Campo-Cidade
+    </header>
+
+    <section>
+        <h2>O que é a ligação campo-cidade?</h2>
+        <p>
+            A ligação entre o campo e a cidade é essencial para o funcionamento da sociedade moderna.
+            Enquanto o campo fornece alimentos, matérias-primas e recursos naturais, a cidade oferece tecnologia,
+            serviços e infraestrutura. Essa relação é de troca constante e ambos dependem um do outro.
+        </p>
+    </section>
+
+    <section>
+        <h2>Benefícios dessa relação</h2>
+        <p>
+            O campo se desenvolve com o acesso aos serviços urbanos, como transporte, educação e saúde.
+            Já a cidade se sustenta graças à produção rural. A valorização dessa parceria fortalece a economia e
+            promove um desenvolvimento mais equilibrado e sustentável.
+        </p>
+    </section>
+
+    <section>
+        <h2>Desafios enfrentados</h2>
+        <p>
+            Apesar dos benefícios, ainda existem desafios como o êxodo rural, a falta de investimentos no campo,
+            e o crescimento desordenado das cidades. É fundamental pensar em políticas públicas que incentivem
+            a harmonia entre essas duas áreas.
+        </p>
+    </section>
+
+    <footer>
+        Trabalho Escolar – Geografia – 2025
+    </footer>
+</body>
+</html>
